@@ -18,3 +18,4 @@ function generateCaption() {
   }
   
 console.log(generateCaption());
+console.log(generateCaption());
